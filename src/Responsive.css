@@ -1,0 +1,26 @@
+@media screen and (max-width:639px){
+    ul.main-menu-list{
+        flex-direction: column;
+        position: absolute;
+        background-color: #ddd;
+        padding: 15px 16px;
+        width: 94%;
+    }
+
+    .menu-icon{
+        display: block;
+    }
+
+    .hidden{
+        display: none !important;
+    }
+
+    .price-box-main{
+        width: 100% !important;
+    }
+
+    .prices-box-wrapper{
+        flex-direction: column;
+    }
+
+}

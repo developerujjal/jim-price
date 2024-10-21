@@ -1,0 +1,10 @@
+.prices-box-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+h2.heading-con {
+    padding: 30px 0px;
+}

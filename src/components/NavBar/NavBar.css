@@ -1,0 +1,24 @@
+ul.main-menu-list {
+    display: flex;
+    gap: 30px;
+}
+
+ul.main-menu-list li a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #a9a9a9;
+}
+
+.menu-icon svg{
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.menu-icon{
+    display: none;
+}
+
+.nav-menu-main {
+    padding: 24px 0px;
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "item": "Jim's Basic Package",
+        "cost": 100.00,
+        "description": "Basic services provided by Jim.",
+        "features": ["Initial Consultation", "Email Support", "Initiall Consultation", "Emaill Support"]
+    },
+    {
+        "id": 2,
+        "item": "Jim's Premium Package",
+        "cost": 200.00,
+        "description": "Premium services with additional features.",
+        "features": ["In-depth Analysis", "Priority Support", "Monthly Check-ins"]
+    },
+    {
+        "id": 3,
+        "item": "Jim's Consultation",
+        "cost": 75.00,
+        "description": "One-on-one consultation session with Jim.",
+        "features": ["Personalized Strategies", "Flexible Scheduling", "Priority Support"]
+    },
+    {
+        "id": 4,
+        "item": "Jim's Monthly Subscription",
+        "cost": 30.00,
+        "description": "Monthly access to exclusive content from Jim.",
+        "features": ["Exclusive Articles", "Monthly Webinars", "In-depth Analysis"]
+    },
+    {
+        "id": 5,
+        "item": "Jim's Custom Service",
+        "cost": 250.00,
+        "description": "Tailored services based on individual needs.",
+        "features": ["Custom Action Plan", "Ongoing Support", "Exclusive Articles"]
+    },
+    {
+        "id": 6,
+        "item": "Jim's Premium Package",
+        "cost": 200.00,
+        "description": "Premium services with additional features.",
+        "features": ["In-depth Analysis", "Priority Support", "Monthly Check-ins"]
+    }
+]
